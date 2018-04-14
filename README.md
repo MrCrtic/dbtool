@@ -1,2 +1,2 @@
-# dbtool
-# Small database backup application
+# dbtool ( Ubuntu )
+# Small localhost database backup application for Ubuntu.
